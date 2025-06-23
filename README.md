@@ -19,3 +19,17 @@ To ensure file integrity by calculating and comparing SHA-256 hash values of sel
 ## ⚙️ How to Run
 1. Open Command Prompt and navigate to this folder.
 2. Run:
+3. Modify files and re-run to detect changes.
+
+## ✅ Outcome
+Successfully detects:
+- New files
+- Changed files
+- Unchanged files
+- Missing files
+
+---
+
+**Submitted by:** Prajin S  
+B.Tech IT – Adithya Institute of Technology  
+CodTech Internship – Task 1
